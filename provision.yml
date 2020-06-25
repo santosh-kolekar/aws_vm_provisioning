@@ -6,7 +6,7 @@
 
   vars_files:
     - vars/dev-environment.yml
-    - vars/aws-creds.yml
+   # - vars/aws-creds.yml
 
   tasks:
 
